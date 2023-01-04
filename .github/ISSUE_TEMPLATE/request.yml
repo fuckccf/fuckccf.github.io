@@ -1,5 +1,5 @@
 name: 子域注册申请
-description: 在这里提交申请, 以注册 xxx.fucksc.cf 子域(如果需要在您注册的子域上继续注册 456789 级子域, 请在原 issue 发表评论并 @dsy4567
+description: 在这里提交申请, 以注册 xxx.fucksc.cf 子域(如果需要在您注册的子域上继续注册 456789 级子域, 请在原 issue 发表评论并 @dsy4567)
 title: "子域注册申请 [您的 GitHub 用户名]"
 labels: 子域注册申请
 assignees:
@@ -17,14 +17,15 @@ body:
         - 跳转至您的 GitHub 个人信息页
         - 跳转至 CCF 官网
         - 跳转至 €€£ 官方团队(洛谷)
+        - 跳转至您的洛谷主页
     validations:
       required: true
   - type: input
     id: value
     attributes:
       label: 值
-      description: IP 地址/CNAME 域名/GitHub 用户名(跳转至 CCF 官网/€€£ 官方团队(洛谷)请留空)
-      placeholder: e.g. 123.132.231/baidu.com
+      description: IP 地址/CNAME 域名/GitHub 用户名/洛谷 uid (跳转至 CCF 官网/€€£ 官方团队(洛谷)请留空)
+      placeholder: e.g. 123.132.231/baidu.com/dsy4567/890975
     validations:
       required: false
   - type: textarea
