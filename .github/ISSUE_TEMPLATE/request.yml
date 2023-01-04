@@ -22,10 +22,10 @@ body:
     id: value
     attributes:
       label: 值
-      description: IP 地址/CNAME 域名/TXT 记录值/自定义 url (跳转至 CCF 官网/€€£ 官方团队(洛谷)请留空)
+      description: IP 地址/CNAME 域名/TXT 记录值/自定义 url
       placeholder: e.g. 123.132.231/baidu.com/I f*** CCF/https://example.com
     validations:
-      required: false
+      required: true
   - type: textarea
     id: notice
     attributes:
