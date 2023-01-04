@@ -29,8 +29,8 @@
 - €€£.fucksc.cf
 - ccf.fucksc.cf
 - dsy4567.fucksc.cf
+- luogu.dsy4567.fucksc.cf
 - dsy5678.fucksc.cf
-- luogu.dsy5678.fucksc.cf
 - script.fucksc.cf
 
 # 其他信息
