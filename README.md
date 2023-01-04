@@ -20,10 +20,7 @@
 - AAAA
 - CNAME
 - TXT(吃灰)
-- 跳转至您的 GitHub 个人信息页
-- 跳转至 CCF 官网
-- 跳转至 €€£ 官方团队(洛谷)
-- 跳转至您的洛谷主页
+- 跳转至自定义 url
 
 > 注意: 不支持为了验证域名所有权而注册子域
 
@@ -32,6 +29,8 @@
 - €€£.fucksc.cf
 - ccf.fucksc.cf
 - dsy4567.fucksc.cf
+- dsy5678.fucksc.cf
+- luogu.dsy5678.fucksc.cf
 - script.fucksc.cf
 
 # 其他信息
