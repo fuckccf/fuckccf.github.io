@@ -15,18 +15,15 @@ body:
         - AAAA
         - CNAME
         - TXT(吃灰)
-        - 跳转至您的 GitHub 个人信息页
-        - 跳转至 CCF 官网
-        - 跳转至 €€£ 官方团队(洛谷)
-        - 跳转至您的洛谷主页
+        - 跳转至自定义 url
     validations:
       required: true
   - type: input
     id: value
     attributes:
       label: 值
-      description: IP 地址/CNAME 域名/GitHub 用户名/洛谷 uid/TXT 记录值 (跳转至 CCF 官网/€€£ 官方团队(洛谷)请留空)
-      placeholder: e.g. 123.132.231/baidu.com/dsy4567/890975/I f*** CCF
+      description: IP 地址/CNAME 域名/TXT 记录值/自定义 url (跳转至 CCF 官网/€€£ 官方团队(洛谷)请留空)
+      placeholder: e.g. 123.132.231/baidu.com/I f*** CCF/https://example.com
     validations:
       required: false
   - type: textarea
