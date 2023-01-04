@@ -1,0 +1,35 @@
+name: 子域注册申请
+description: 在这里提交申请, 以注册 xxx.fucksc.cf 子域
+title: "子域注册申请 [您的 GitHub 用户名]"
+labels: 
+assignees:
+  - dsy4567
+body:
+  - type: input
+    id: 类型
+    attributes:
+      label: 类型
+      multiple: true
+      options:
+        - A
+        - AAAA
+        - CNAME
+        - 跳转至您的 GitHub 个人信息页
+        - 跳转至 CCF 官网
+        - 跳转至 €€£ 官方团队(洛谷)
+    validations:
+      required: true
+  - type: input
+    id: 值
+    attributes:
+      label: 值
+      description: 跳转至 CCF 官网/€€£ 官方团队(洛谷)请留空
+      placeholder: e.g. 123.132.231/baidu.com
+    validations:
+      required: false
+  - type: textera
+    id: 其他说明
+    attributes:
+      label: 其他说明
+    validations:
+      required: false
