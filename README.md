@@ -18,3 +18,7 @@
 - ccf.fucksc.cf
 - dsy4567.fucksc.cf
 - script.fucksc.cf
+
+# 特权
+
+所有成功注册子域的用户均可以加入 @fuckccf 组织
