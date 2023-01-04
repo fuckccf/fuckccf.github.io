@@ -2,7 +2,7 @@
 
 欢迎您注册 xxx.fucksc.cf 子域!
 
-如果您拥有一台服务器/会使用一个静态网站托管平台(比如 GitHub Pages/CloudFlare Pages), 并且会配置自定义域, 那么您只要满足以下条件之一, 就可以注册 xxx.fucksc.cf 子域
+您只要满足以下条件之一, 就可以注册 xxx.fucksc.cf 子域
 
 - 您受够了 CCF 的高收费
 - 您因为代码中存在暴戾性语言/比赛作弊等原因而被 CCF 禁赛
