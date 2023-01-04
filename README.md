@@ -10,6 +10,8 @@
 
 猛戳这里注册 --> https://github.com/fuckccf/fuckccf.github.io/issues/new/choose
 
+> 您还可以在您注册的子域上继续注册 456789 级子域
+
 > 注意: 您只能注册与您的 GitHub 用户名相同的子域
 
 # 支持的类型
