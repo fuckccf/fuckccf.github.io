@@ -9,3 +9,12 @@
 - 您只是想要一个好看的域名
 
 猛戳这里注册 --> https://github.com/fuckccf/fuckccf.github.io/issues/new/choose
+
+> 注意: 您只能注册与您的 GitHub 用户名相同的子域
+
+# 已注册的子域
+
+- €€£.fucksc.cf
+- ccf.fucksc.cf
+- dsy4567.fucksc.cf
+- script.fucksc.cf
