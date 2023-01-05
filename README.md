@@ -9,7 +9,7 @@
 - 您因为代码中存在暴戾性语言/比赛作弊等原因而被 CCF 禁赛
 - 您因为其他原因想要发泄对 CCF 的不满
 
-猛戳[这里](https://github.com/fuckccf/fuckccf.github.io/issues/new/choose)注册
+**>>猛戳[这里](https://github.com/fuckccf/fuckccf.github.io/issues/new/choose)注册<<**
 
 > 您还可以在您注册的子域上继续注册 456789 级子域
 
