@@ -4,6 +4,7 @@
 
 您只要满足以下条件之一, 就可以注册 xxx.fucksc.cf 子域
 
+- 您的网站没有令人反感和非法的内容(允许商业网站)
 - 您受够了 CCF 的高收费
 - 您因为代码中存在暴戾性语言/比赛作弊等原因而被 CCF 禁赛
 - 您因为其他原因想要发泄对 CCF 的不满
@@ -26,12 +27,7 @@
 
 # 已注册的子域
 
-- €€£.fucksc.cf
-- ccf.fucksc.cf
-- dsy4567.fucksc.cf
-- luogu.dsy4567.fucksc.cf
-- dsy5678.fucksc.cf
-- script.fucksc.cf
+[点击查看](reg.md)
 
 # 其他信息
 
