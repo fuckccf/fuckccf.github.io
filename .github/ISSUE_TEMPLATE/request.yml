@@ -14,7 +14,7 @@ body:
         - A
         - AAAA
         - CNAME
-        - TXT(吃灰)
+        - TXT
         - 跳转至自定义 url
     validations:
       required: true
