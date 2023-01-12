@@ -1,6 +1,6 @@
 # xxx.fucksc.cf 子域注册
 
-> 声明: `CCF` 不一定指 `China Computer Federation`, 还可以指 `China Collecting-money Federation`, `Calvary Christian Fellowship` 等
+> 声明: `CCF` 不一定指 `China Computer Federation`, 还可以指 `China Collecting-money Federation`, `Calvary Christian Fellowship`, `Cheetah Conservation Fund` 等
 
 欢迎您注册 xxx.fucksc.cf 子域!
 
