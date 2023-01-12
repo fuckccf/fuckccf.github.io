@@ -1,5 +1,7 @@
 # xxx.fucksc.cf 子域注册
 
+> 声明: `CCF` 不一定指 `China Computer Federation`, 还可能指 `China Collecting-money Federation` `Calvary Christian Fellowship` 等
+
 欢迎您注册 xxx.fucksc.cf 子域!
 
 如果您的网站没有令人反感和非法的内容(允许商业网站), 那么只要满足以下条件之一, 就可以注册 xxx.fucksc.cf 子域
