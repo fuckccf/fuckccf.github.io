@@ -2,6 +2,8 @@
 
 > 声明: `CCF` 不一定指 `China Collecting-money Federation`, 还可以指 `Calvary Christian Fellowship`, `Cheetah Conservation Fund` 等
 
+> 声明2: fuckccf 组织已于 2023.1.14 由 dsy4567 移交给 zhegeshijieshangzuishuaideren, 至此该组织所有事务与 dsy4567 无关
+
 欢迎您注册 xxx.fucksc.cf 子域!
 
 如果您的网站没有令人反感和非法的内容(允许商业网站), 那么只要满足以下条件之一, 就可以注册 xxx.fucksc.cf 子域
