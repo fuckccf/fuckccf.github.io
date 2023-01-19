@@ -3,3 +3,5 @@ contact_links:
   - name: 使用免注册的 xxx.ghp.fucksc.cf
     url: https://docs.github.com/zh/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
     about: 直接在仓库的 Pages 设置里配置自定义域 <name>.ghp.fucksc.cf 即可，免登记无限制注册，详见 GitHub 官方文档
+  - name: 创建其他类型的 issue
+    url: https://github.com/fuckccf/fuckccf.github.io/issues/new

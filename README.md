@@ -1,8 +1,6 @@
 # xxx.fucksc.cf 子域注册
 
-> 声明: `CCF` 不一定指 `China Collecting-money Federation`, 还可以指 `Calvary Christian Fellowship`, `Cheetah Conservation Fund` 等
-
-> 声明2: fuckccf 组织已于 2023.1.14 由 dsy4567 移交给 zhegeshijieshangzuishuaideren, 至此该组织所有事务与 dsy4567 无关
+> 声明: fuckccf 组织已于 2023.1.14 由 dsy4567 移交给 zhegeshijieshangzuishuaideren, 至此该组织所有事务与 dsy4567 无关
 
 欢迎您注册 xxx.fucksc.cf 子域!
 
@@ -16,8 +14,6 @@
 **>>猛戳[这里](https://github.com/fuckccf/fuckccf.github.io/issues/new/choose)注册<<**
 
 > 您还可以在您注册的子域上继续注册 456789 级子域
-
-> 注意: 您只能注册与您的 GitHub/洛谷用户名(支持中文)相同的子域
 
 ## 支持的类型
 

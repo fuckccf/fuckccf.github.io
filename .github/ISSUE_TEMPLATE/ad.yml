@@ -3,14 +3,14 @@ description: 让您的产品发光发亮
 title: "广告位申请: [产品名称]"
 labels: 广告位申请
 assignees:
-  -  dsy4567
+  -  zhegeshijieshangzuishuaideren
 body:
   - type: markdown
     attributes:
       value: |
         # 申请要求
         1. 您已经注册了任意一个子域
-        2. 网站在二级及以下菜单/页面链接了 dsy4567.github.io fcmsb250.github.io fucksc.cf 中的任意一个
+        2. 网站在二级及以下菜单/页面链接了 fucksc.cf
         3. 网站拥有除 fucksc.cf 以外的独立域名
         4. 网站是**非盈利**性质的, 且不包含令人反感/非法的内容
   - type: input

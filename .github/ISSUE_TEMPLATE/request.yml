@@ -1,9 +1,9 @@
 name: 子域注册申请
-description: 在这里提交申请, 以注册 xxx.fucksc.cf 子域(注册 456789 级子域/变更请在原 issue 发表评论并 @dsy4567)
-title: "子域注册申请 [您的 GitHub/洛谷用户名]"
+description: 在这里提交申请, 以注册 xxx.fucksc.cf 子域(注册 456789 级子域/变更请在原 issue 发表评论并 @zhegeshijieshangzuishuaideren)
+title: "子域注册申请 [xxx]"
 labels: 子域注册申请
 assignees:
-  - dsy4567
+  - zhegeshijieshangzuishuaideren
 body:
   - type: dropdown
     id: type
