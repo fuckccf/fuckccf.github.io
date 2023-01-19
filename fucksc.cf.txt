@@ -1,0 +1,58 @@
+;;
+;; Domain:     fucksc.cf.
+;; Exported:   2023-01-19 10:34:42
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+fucksc.cf	3600	IN	SOA	jonah.ns.cloudflare.com dns.cloudflare.com 2042579108 10000 2400 604800 3600
+
+;; NS Records
+fucksc.cf.	86400	IN	NS	jonah.ns.cloudflare.com.
+fucksc.cf.	86400	IN	NS	lorna.ns.cloudflare.com.
+
+;; A Records
+jntm.fucksc.cf.	1	IN	A	43.156.62.99 ; yuanqidouya
+
+;; CNAME Records
+ccf.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+dsy4567.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+dsy5678.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+fucksc.cf.	1	IN	CNAME	fuckccf.github.io.
+*.ghp.fucksc.cf.	1	IN	CNAME	dsy4567.github.io.
+ghp.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+luogu.dsy4567.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+script.fucksc.cf.	1	IN	CNAME	fuckccf.github.io.
+www.fucksc.cf.	1	IN	CNAME	fuckccf.github.io.
+xn--9a515na.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+xxx.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+
+;; MX Records
+fucksc.cf.	1	IN	MX	92 route3.mx.cloudflare.net.
+fucksc.cf.	1	IN	MX	37 route2.mx.cloudflare.net.
+fucksc.cf.	1	IN	MX	90 route1.mx.cloudflare.net.
+
+;; TXT Records
+_dmarc.fucksc.cf.	1	IN	TXT	"v=DMARC1; p=reject; sp=reject; adkim=s; aspf=s;"
+*._domainkey.fucksc.cf.	1	IN	TXT	"v=DKIM1; p="
+fucksc.cf.	1	IN	TXT	"v=spf1 include:_spf.mx.cloudflare.net ~all"
+_github-challenge-fuckccf-org.fucksc.cf.	1	IN	TXT	"b5dacd64d9"
