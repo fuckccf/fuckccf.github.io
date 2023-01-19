@@ -6,4 +6,5 @@
 - **luogu.dsy4567**.fucksc.cf
 - **dsy5678**.fucksc.cf
 - **\*.ghp**.fucksc.cf
+- **jntm**.fucksc.cf
 - **script**.fucksc.cf
