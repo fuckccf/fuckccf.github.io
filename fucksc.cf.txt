@@ -1,6 +1,6 @@
 ;;
 ;; Domain:     fucksc.cf.
-;; Exported:   2023-01-21 02:12:14
+;; Exported:   2023-02-03 04:10:10
 ;;
 ;; This file is intended for use for informational and archival
 ;; purposes ONLY and MUST be edited before use on a production
@@ -24,7 +24,7 @@
 ;;
 ;; Use at your own risk.
 ;; SOA Record
-fucksc.cf	3600	IN	SOA	jonah.ns.cloudflare.com dns.cloudflare.com 2042593373 10000 2400 604800 3600
+fucksc.cf	3600	IN	SOA	jonah.ns.cloudflare.com dns.cloudflare.com 2042706401 10000 2400 604800 3600
 
 ;; NS Records
 fucksc.cf.	86400	IN	NS	jonah.ns.cloudflare.com.
@@ -35,7 +35,7 @@ jntm.fucksc.cf.	1	IN	A	43.156.62.99 ; yuanqidouya
 
 ;; CNAME Records
 ccf.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
-dsy4567.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
+dsy4567.fucksc.cf.	1	IN	CNAME	dsy4567-github-io.pages.dev.
 dsy5678.fucksc.cf.	1	IN	CNAME	go-to.pages.dev.
 fucksc.cf.	1	IN	CNAME	fuckccf.github.io.
 *.ghp.fucksc.cf.	1	IN	CNAME	dsy4567.github.io.
