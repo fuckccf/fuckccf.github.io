@@ -26,6 +26,14 @@ body:
       placeholder: e.g. 123.132.231/baidu.com/I f*** CCF/https://example.com
     validations:
       required: true
+  - type: input
+    id: invite
+    attributes:
+      label: 值
+      description: (可选)哪位 GitHub 用户邀请您注册
+      placeholder: GitHub 用户名
+    validations:
+      required: false
   - type: textarea
     id: notice
     attributes:
