@@ -29,8 +29,8 @@ body:
   - type: input
     id: invite
     attributes:
-      label: 值
-      description: (可选)哪位 GitHub 用户邀请您注册
+      label: 邀请信息
+      description: (可选)哪位 GitHub 用户邀请您注册 xxx.fucksc.cf 子域
       placeholder: GitHub 用户名
     validations:
       required: false
