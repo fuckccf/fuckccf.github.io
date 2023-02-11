@@ -29,7 +29,7 @@
 
 ## 其他信息
 
-1. 您注册的子域所有权归 zhegeshijieshangzuishuaideren 所有, 您只享有对子域的使用权
+1. zhegeshijieshangzuishuaideren 保留随时删除/修改您注册的子域的权利
 2. 所有成功注册子域的用户均可以加入 fuckccf 组织
 
 ## 广告
