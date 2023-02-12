@@ -44,6 +44,6 @@ body:
     id: snapshot
     attributes:
       options:
-      - label: 我愿意我的网站被捕获快照(服务即将推出)
+        - label: 我愿意我的网站被捕获快照(服务即将推出)
     validations:
       required: false
