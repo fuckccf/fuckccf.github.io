@@ -42,9 +42,9 @@ body:
       required: false
   - type: checkboxes
     id: snapshot
+    description: 如果你的网站寄了, 这个功能会非常有用
     attributes:
       label: 捕获快照
       options:
         - label: 我愿意我的网站被定期捕获快照(服务即将推出)
-          description: 如果你的网站寄了, 这个功能会非常有用
           required: false
