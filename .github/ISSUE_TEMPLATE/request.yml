@@ -40,9 +40,10 @@ body:
       label: 其他说明
     validations:
       required: false
-  - type: checkbox
+  - type: checkboxes
     id: snapshot
     attributes:
-      label: 我愿意我的网站被捕获快照(服务即将推出)
+      options:
+      - label: 我愿意我的网站被捕获快照(服务即将推出)
     validations:
       required: false
