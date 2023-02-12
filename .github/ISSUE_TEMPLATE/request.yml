@@ -30,7 +30,7 @@ body:
     id: invite
     attributes:
       label: 邀请信息
-      description: (可选)哪位 GitHub 用户邀请您注册 xxx.fucksc.cf 子域
+      description: (选填)哪位 GitHub 用户邀请您注册 xxx.fucksc.cf 子域
       placeholder: GitHub 用户名
     validations:
       required: false
@@ -38,5 +38,11 @@ body:
     id: notice
     attributes:
       label: 其他说明
+    validations:
+      required: false
+  - type: checkbox
+    id: snapshot
+    attributes:
+      label: 我愿意我的网站被捕获快照(服务即将推出)
     validations:
       required: false
