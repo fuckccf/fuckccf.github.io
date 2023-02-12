@@ -26,6 +26,14 @@ body:
       placeholder: e.g. 123.132.231/baidu.com/I f*** CCF/https://example.com
     validations:
       required: true
+  - type: checkboxes
+    id: cloudflare
+    attributes:
+      label: 套 Cloudflare 代理加速访问
+      description: 如果你的网站访问速度足够快, 不建议勾选; 跳转至自定义 url 不支持该选项
+      options:
+        - label: 为我的网站套 Cloudflare 代理
+          required: false
   - type: input
     id: invite
     attributes:
