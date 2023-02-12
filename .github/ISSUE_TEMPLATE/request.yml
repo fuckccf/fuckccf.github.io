@@ -43,7 +43,7 @@ body:
   - type: checkboxes
     id: snapshot
     attributes:
+      label: 捕获快照
       options:
-        - label: 我愿意我的网站被捕获快照(服务即将推出)
-    validations:
-      required: false
+        - label: 我愿意我的网站被定期捕获快照(服务即将推出)
+          required: false
