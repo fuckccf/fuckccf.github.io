@@ -4,9 +4,8 @@
 
 欢迎您注册 xxx.fucksc.cf 子域!
 
-如果您的网站没有令人反感和非法的内容(允许商业网站), 那么只要满足以下条件之一, 就可以注册 xxx.fucksc.cf 子域
+如果您的网站满足 [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md) 和以下条件之一, 就可以注册 xxx.fucksc.cf 子域
 
-- 您是 zhegeshijieshangzuishuaideren 的亲戚/朋友/同学
 - 您受够了 CCF 的高收费
 - 您因为代码中存在暴戾性语言/比赛作弊等原因而被 CCF 禁赛
 - 您因为其他原因想要发泄对 CCF 的不满
