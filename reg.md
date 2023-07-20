@@ -7,6 +7,7 @@
 - **gfw-sb250.dsy4567**.fucksc.cf
 - **dsy5678**.fucksc.cf
 - **\*.ghp**.fucksc.cf
+- **rapesand**.fucksc.cf
 - **ych.immccn123**.fucksc.cf
 - **jntm**.fucksc.cf
 - **script**.fucksc.cf
