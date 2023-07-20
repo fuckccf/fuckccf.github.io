@@ -10,11 +10,13 @@ body:
     attributes:
       label: 类型
       multiple: false
+      description: 如果你不懂域名解析，建议[百度](https://www.baidu.com/s?wd=%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E8%AE%B0%E5%BD%95%E7%B1%BB%E5%9E%8B)或选择跳转至自定义 url
       options:
-        - A
-        - AAAA
-        - CNAME
-        - TXT
+        - A（IPv4 地址）
+        - AAAA（IPv6 地址）
+        - CNAME（域名）
+        - TXT（任意内容）
+        - NS（自定义域名解析服务，推荐国外的 Vercel 或国内的 DnsPod）
         - 跳转至自定义 url
     validations:
       required: true
