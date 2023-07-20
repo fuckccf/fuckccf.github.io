@@ -1,6 +1,6 @@
 name: 子域注册申请
 description: 在这里提交申请, 以注册 xxx.fucksc.cf 子域(注册 456789 级子域/变更请在原 issue 发表评论并 @zhegeshijieshangzuishuaideren)
-title: "子域注册申请 [xxx]"
+title: "子域注册申请 [要注册的子域，最少 4 个字符]"
 labels: 子域注册申请
 assignees:
   - zhegeshijieshangzuishuaideren
