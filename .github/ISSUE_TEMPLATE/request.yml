@@ -23,7 +23,7 @@ body:
     attributes:
       label: 值
       description: IP 地址/CNAME 域名/TXT 记录值/自定义 url
-      placeholder: e.g. 123.132.231/baidu.com/I f*** CCF/https://example.com
+      placeholder: e.g. 11.4.51.4/fucksc.cf/I f*** CCF/https://www.fucksc.cf
     validations:
       required: true
   - type: checkboxes
